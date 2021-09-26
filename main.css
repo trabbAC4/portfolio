@@ -227,7 +227,7 @@ img {
       line-height: 1.2; }
 
 #header-inner {
-  background: url("../dist/img/globe.png") no-repeat 20% 30%/cover;
+  background: url("globe.png") no-repeat 20% 30%/cover;
   height: 17vh;
   border-bottom: 3px solid #ffbc00; }
 
